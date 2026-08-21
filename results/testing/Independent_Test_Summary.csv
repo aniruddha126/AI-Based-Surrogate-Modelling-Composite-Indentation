@@ -1,0 +1,25 @@
+Case,Model,Output,R2,RMSE,Peak_Error_%
+Case_20,ANN,Displacement,0.9921,0.3822,-2.92
+Case_20,ANN,Stress_L1,0.9593,28.0478,-1.17
+Case_20,ANN,Stress_L2,0.973,21.6971,-0.09
+Case_20,ANN,Stress_L4,0.9615,26.8606,4.95
+Case_20,XGBoost,Displacement,0.9456,1.0007,-5.97
+Case_20,XGBoost,Stress_L1,0.8257,58.0549,-11.57
+Case_20,XGBoost,Stress_L2,0.8338,53.8338,-17.9
+Case_20,XGBoost,Stress_L4,0.8367,55.3073,-10.71
+Case_20,Random Forest,Displacement,0.8711,1.5397,-27.5
+Case_20,Random Forest,Stress_L1,0.422,105.7189,-44.27
+Case_20,Random Forest,Stress_L2,0.3873,103.3677,-45.51
+Case_20,Random Forest,Stress_L4,0.3776,107.9842,-51.5
+Case_22,ANN,Displacement,0.9992,0.0898,-0.72
+Case_22,ANN,Stress_L1,-2.6658,94.8027,-96.28
+Case_22,ANN,Stress_L2,0.9331,11.7808,-1.31
+Case_22,ANN,Stress_L4,0.913,14.1436,0.67
+Case_22,XGBoost,Displacement,0.9805,0.4538,-2.3
+Case_22,XGBoost,Stress_L1,-0.5463,61.5726,-35.39
+Case_22,XGBoost,Stress_L2,0.9345,11.6528,4.01
+Case_22,XGBoost,Stress_L4,0.8533,18.3711,14.79
+Case_22,Random Forest,Displacement,0.9772,0.4909,-3.02
+Case_22,Random Forest,Stress_L1,-1.0198,70.3714,-81.3
+Case_22,Random Forest,Stress_L2,0.9567,9.4797,-4.93
+Case_22,Random Forest,Stress_L4,0.8083,21.0028,-2.09

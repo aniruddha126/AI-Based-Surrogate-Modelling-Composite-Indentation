@@ -1,0 +1,13 @@
+Case,Output,Model,FEA_Peak,Predicted_Peak,Error_%
+Case_22,Displacement,ANN,16.2,16.08300018310547,-0.72
+Case_22,Displacement,XGBoost,16.2,15.82699966430664,-2.3
+Case_22,Displacement,Random Forest,16.2,15.711,-3.02
+Case_22,Stress_L1,ANN,851.0,31.655000686645508,-96.28
+Case_22,Stress_L1,XGBoost,851.0,549.8410034179688,-35.39
+Case_22,Stress_L1,Random Forest,851.0,159.117,-81.3
+Case_22,Stress_L2,ANN,594.0,586.2329711914062,-1.31
+Case_22,Stress_L2,XGBoost,594.0,617.8060302734375,4.01
+Case_22,Stress_L2,Random Forest,594.0,564.692,-4.93
+Case_22,Stress_L4,ANN,379.0,381.5360107421875,0.67
+Case_22,Stress_L4,XGBoost,379.0,435.05999755859375,14.79
+Case_22,Stress_L4,Random Forest,379.0,371.082,-2.09
