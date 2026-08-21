@@ -2,7 +2,7 @@
 
 **M.Tech Thesis Submitted to Indian Institute of Technology Jammu**
 
-Repository: https://github.com/<username>/<repository-name>
+Repository: https://github.com/aniruddha126/AI-Based-Surrogate-Modelling-Composite-Indentation
 
 ## Overview
 
@@ -13,11 +13,13 @@ This repository contains the datasets, machine learning models, training noteboo
 
 ## Repository Structure
 
-thesis/      Final dissertation and supplementary documents
-data/        Raw and processed datasets
-notebooks/   Jupyter notebooks used for analysis and model development
-models/      Trained ANN, Random Forest, and XGBoost models
-results/     Validation and independent testing results
+| Folder | Description |
+|----------|----------|
+| `thesis/` | Final dissertation and supplementary documents |
+| `data/` | Raw and processed datasets |
+| `notebooks/` | Jupyter notebooks used for analysis and model development |
+| `models/` | Trained ANN, Random Forest, and XGBoost models |
+| `results/` | Validation and independent testing results |
 
 
 ## Key Results
