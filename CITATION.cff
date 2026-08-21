@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "AI-Based Surrogate Modelling for Composite Laminate Indentation"
+message: "If you use this repository, please cite this work."
+authors:
+  - family-names: Deshmukh
+    given-names: Aniruddha Jayprakash
+type: thesis
+institution: Indian Institute of Technology Jammu
+year: 2026
